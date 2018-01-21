@@ -12,7 +12,7 @@
 #define CLASS_NAME "dev"
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Aamulya Sehgal");
+MODULE_AUTHOR("Kirti Karan");
 MODULE_DESCRIPTION("Waiting Process Demo");
 
 static int majorNumber;
