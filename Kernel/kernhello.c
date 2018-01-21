@@ -2,7 +2,7 @@
 #include<linux/module.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Aamulya Sehgal");
+MODULE_AUTHOR("Kirti Karan");
 
 static int hello_init(void)
 {
