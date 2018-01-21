@@ -11,7 +11,7 @@
 #define CLASS_NAME "dev"
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Aamulya Sehgal");
+MODULE_AUTHOR("Kirti Karan");
 
 static int majorNumber;
 static short size_of_ptr=0;
