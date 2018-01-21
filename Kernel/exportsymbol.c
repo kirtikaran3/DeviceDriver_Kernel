@@ -3,7 +3,7 @@
 #include<linux/moduleparam.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Aamulya Sehgal");
+MODULE_AUTHOR("Kirti Karan");
 
 static int maxsize=8;
 
