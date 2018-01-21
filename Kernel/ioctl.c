@@ -15,7 +15,7 @@
 #define CLASS_NAME "dev"
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Aamulya Sehgal");
+MODULE_AUTHOR("Kirti Karan");
 MODULE_DESCRIPTION("A simple linux char driver");
 MODULE_VERSION("0.1");
 
